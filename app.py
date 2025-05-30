@@ -10,8 +10,8 @@ import tempfile
 # =========================
 # CONFIGURAÇÕES PADRÃO
 # =========================
-PASTA_TRANSCRITOS_PADRAO = "videos_transcritos_inffelCursos"
-PASTA_TRANSLITERADOS_PADRAO = "videos_transliterados_inffelCursos"
+PASTA_TRANSCRITOS_PADRAO = "videos_transcritos"
+PASTA_TRANSLITERADOS_PADRAO = "videos_transliterados"
 
 # Cliente OpenAI
 client = OpenAI(api_key=OPENAI_API_KEY)
