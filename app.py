@@ -228,7 +228,7 @@ with tab1:
     with st.form("canal_form"):
         canal_url = st.text_input(
             "URL do canal do YouTube", 
-            value="https://www.youtube.com/@inffelcursos3360",
+            value="https://www.youtube.com/",
             placeholder="https://www.youtube.com/@seucanal"
         )
         
