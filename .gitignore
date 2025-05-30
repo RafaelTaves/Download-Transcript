@@ -1,5 +1,6 @@
 config.py
 transliteration.py
+videos_transliterados_inffelCursos
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
