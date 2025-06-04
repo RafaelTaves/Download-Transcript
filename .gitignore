@@ -2,6 +2,9 @@ config.py
 transliteration.py
 videos_transliterados_inffelCursos
 tabelas_por_extenso
+Material RAG
+videos_transcritos
+videos_transliterados 
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

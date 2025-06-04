@@ -57,7 +57,6 @@ Para configurar o ambiente no Windows, siga este tutorial:
 ### **1. Clone o Repositório**
 ```bash
 git clone https://github.com/RafaelTaves/Download-Transcript
-cd youtube-transcription-suite
 ```
 
 ### **2. Crie um Ambiente Virtual**
